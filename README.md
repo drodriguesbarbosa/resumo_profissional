@@ -1,2 +1,2 @@
-# resumo_profissional
-Exercício utilizando comandos básicos utilizando HTML
+# Pet Shop Lilicão
+Desenvolvimento de uma página com HTML5 e CSS
